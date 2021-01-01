@@ -7,3 +7,5 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+I created this blog as a way to save examples of how to perform various R tasks.  All the examples in this blog will be sports related because that is the way I stay interested and learn.  I hope you can find the examples helpful!
