@@ -1,8 +1,7 @@
 ---
-title: "Welcome to my SportsRStats blog!"
+title: "Welcome to my Sports with R blog!"
 description: |
-  Welcome to my new blog, SportsRstats. I hope you enjoy 
-  reading what I have to say!
+  Welcome to my new blog, Sports with R. I hope you enjoy reading what I have to say!
 author:
   - name: Thomas J. Demmer 
     url: https://example.com/norajones

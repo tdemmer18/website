@@ -1,5 +1,5 @@
 name: "website"
-title: "SportsRstats!"
+title: "Sports with R!"
 description: |
   A sports with R blog!
 output_dir: "_site"
