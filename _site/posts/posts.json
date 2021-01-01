@@ -1,19 +1,19 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Distill Website",
-    "description": "Welcome to our new blog, My Distill Website. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2020-12-31-buildingdistill/",
+    "title": "Setting up my distill website",
+    "description": "How I built this site using {distill}.",
     "author": [
       {
-        "name": "Thomas J. Demmer",
-        "url": "https://example.com/norajones"
+        "name": "Thomas Demmer",
+        "url": {}
       }
     ],
-    "date": "2020-12-07",
+    "date": "2020-12-31",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nHere is where I will talk about building this website.\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-07T21:40:12-05:00",
-    "input_file": "welcome.utf8.md"
+    "last_modified": "2020-12-31T23:15:13-05:00",
+    "input_file": "buildingdistill.utf8.md"
   }
 ]

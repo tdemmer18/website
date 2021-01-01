@@ -1,5 +1,9 @@
 ---
-title: "Sports with R"
+title: "R with sports data!"
 site: distill::distill_website
-listing: posts
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

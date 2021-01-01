@@ -1,12 +1,12 @@
 name: "website"
 title: "Sports with R!"
 description: |
-  A sports with R blog!
+  Learn R with sports examples!
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
+    - text: "Tips"
+    - href: tips.html
 output: distill::distill_article

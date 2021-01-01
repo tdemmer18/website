@@ -1,19 +1,18 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "path": "index.html",
+      "title": "R with sports data!",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-07T21:39:20-05:00"
+      "last_modified": "2020-12-31T23:09:21-05:00"
     },
     {
-      "path": "index.html",
-      "title": "My Distill Website",
+      "path": "tips.html",
+      "title": "Tips",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-07T21:39:20-05:00"
+      "last_modified": "2020-12-31T23:09:22-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
