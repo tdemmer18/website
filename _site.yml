@@ -1,7 +1,7 @@
 name: "website"
-title: "My Distill Website"
+title: "SportsRstats!"
 description: |
-  My Distill Website
+  A sports with R blog!
 output_dir: "_site"
 navbar:
   right:

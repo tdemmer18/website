@@ -1,14 +1,14 @@
 ---
-title: "Welcome to My Distill Website"
+title: "Welcome to my SportsRStats blog!"
 description: |
-  Welcome to our new blog, My Distill Website. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my new blog, SportsRstats. I hope you enjoy 
+  reading what I have to say!
 author:
   - name: Thomas J. Demmer 
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
-date: 12-07-2020
+date: 12-32-2020
 output:
   distill::distill_article:
     self_contained: false
