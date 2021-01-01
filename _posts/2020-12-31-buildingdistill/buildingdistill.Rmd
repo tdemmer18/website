@@ -5,6 +5,7 @@ description: |
 author:
   - name: Thomas Demmer
 date: 12-31-2020
+preview: distill_logo.png
 output:
   distill::distill_article:
     self_contained: false

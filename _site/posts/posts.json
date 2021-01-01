@@ -12,8 +12,10 @@
     "date": "2020-12-31",
     "categories": [],
     "contents": "\nHere is where I will talk about building this website.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2020-12-31T23:15:13-05:00",
-    "input_file": "buildingdistill.utf8.md"
+    "preview": "posts/2020-12-31-buildingdistill/distill_logo.png",
+    "last_modified": "2020-12-31T23:53:18-05:00",
+    "input_file": "buildingdistill.utf8.md",
+    "preview_width": 240,
+    "preview_height": 277
   }
 ]

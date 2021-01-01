@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>SPORTS WITH R!</title>
+    <link>http://www.sportswithr.com/</link>
+    <atom:link href="http://www.sportswithr.com/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Learn R with sports examples!
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Setting up my distill website</title>
+      <dc:creator>Thomas Demmer</dc:creator>
+      <link>http://www.sportswithr.com/posts/2020-12-31-buildingdistill</link>
+      <description>How I built this site using {distill}.</description>
+      <guid>http://www.sportswithr.com/posts/2020-12-31-buildingdistill</guid>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="http://www.sportswithr.com/posts/2020-12-31-buildingdistill/distill_logo.png" medium="image" type="image/png" width="240" height="277"/>
+    </item>
+  </channel>
+</rss>

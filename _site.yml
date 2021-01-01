@@ -1,12 +1,26 @@
 name: "website"
-title: "Sports with R!"
+title: "SPORTS WITH R!"
 description: |
   Learn R with sports examples!
+base_url: http://www.sportswithr.com/
 output_dir: "_site"
 navbar:
   right:
-    - text: "About"
+    - text: "HOME"
       href: index.html
-    - text: "Tips"
-    - href: tips.html
+    - text: "ABOUT"
+      href: about.html
+    - icon: fa fa-github
+      href: https://github.com/tdemmer18
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/tdemmer/
+    - icon: fa fa-twitter
+      href: https://twitter.com/tdemmer18
+
+collections:
+  posts:
+    share: [twitter, linkedin]
 output: distill::distill_article
+theme: "theme.css"
+rss:
+  full_content: false
